@@ -1,6 +1,6 @@
 # vue-music
 
-> 音乐APP（vue2.0）
+> vue-music
 
 ## Build Setup
 
